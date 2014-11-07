@@ -1,10 +1,6 @@
 {
   "name": "semantic-ui-feed",
-<<<<<<< HEAD
   "version": "1.0.0-beta",
-=======
-  "version": "1.0.0",
->>>>>>> f34667d2de946bdae6d38e3f9c784df541f72674
   "title": "Semantic UI - Feed",
   "description": "Single component release of feed",
   "homepage": "http://www.semantic-ui.com",
@@ -17,11 +13,5 @@
   "bugs": {
     "url": "https://github.com/Semantic-Org/Semantic-UI/issues"
   },
-<<<<<<< HEAD
-=======
-  "dependencies": {
-    "jquery": "x.x.x"
-  },
->>>>>>> f34667d2de946bdae6d38e3f9c784df541f72674
   "devDependencies": {}
 }
